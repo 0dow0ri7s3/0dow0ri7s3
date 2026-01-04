@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Odoworitse+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Automation+Specialist;Building+Reliable+Infrastructure+%7C+CI%2FCD+Pipelines" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Odoworitse%20Afari&fontSize=70&fontColor=2C3E50&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descSize=20&descAlignY=55" alt="Header"/>
 </div>
 
 <div align="center">
