@@ -30,11 +30,13 @@ I'm **Odoworitse Afari** — a DevOps Engineer focused on building CI/CD pipelin
 
 ## 🧩 Tech Stack
 
-## 🧩 Tech Stack
-
 <div align="center">
   
 ![Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,docker,ansible,jenkins,githubactions,git,linux,bash,prometheus,grafana,python)
+
+<br/>
+
+![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 </div>
 
