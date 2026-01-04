@@ -37,6 +37,14 @@ I'm **Odoworitse Afari** — a DevOps Engineer focused on building CI/CD pipelin
 <br/>
 
 ![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-Docker%20%26%20Kubernetes-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%26%20GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Config Management](https://img.shields.io/badge/Config%20Management-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Scripting](https://img.shields.io/badge/Scripting-Bash%20%26%20Python-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus%20%26%20Grafana-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 </div>
 
