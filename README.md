@@ -31,7 +31,7 @@ I'm **Odoworitse Afari** — a DevOps Engineer focused on building CI/CD pipelin
 ## 🧩 Tech Stack
 
 <div align="center">
-
+68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c6763702c7465727261666f726d2c6b756265726e657465732c646f636b65722c616e7369626c652c6a656e6b696e732c676974687562616374696f6e732c6769742c6c696e75782c626173682c70726f6d6574686575732c67726166616e61
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
