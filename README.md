@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About me
 
-I'm **Odoworitse Afari** — a DevOps Engineer focused on building CI/CD pipelines and automating cloud infrastructure.
+I'm **Odoworitse** — a DevOps Engineer focused on building CI/CD pipelines and automating cloud infrastructure.
 
 - 🔧 I eliminate manual work and turn deployment chaos into reliable systems
 - ☁️ Building scalable infrastructure on AWS with Infrastructure as Code
