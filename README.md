@@ -1,8 +1,19 @@
+```console
+$ whoami
+Odoworitse Afari — Cloud & DevOps Engineer
+
+$ cat ./what-i-do
+> Deploy, automate and troubleshoot applications on AWS
+> for startups and small engineering teams
+
+$ ./pipeline --status
+  PUSH ──▶ BUILD ──▶ TEST ──▶ DEPLOY ──▶ ✔ LIVE
+
+$ terraform apply -auto-approve
+Apply complete. Resources: 14 added, 0 changed, 0 destroyed.
+```
+
 <div align="center">
-
-# Odoworitse Afari
-
-### Cloud & DevOps Engineer
 
 **I help startups and small engineering teams deploy, automate, and troubleshoot applications on AWS.**
 
@@ -79,8 +90,6 @@ That discipline came from welding engineering, where a bad weld fails under load
 
 - Building a Linux permissions and access-control lab on AWS, documenting the architecture decisions and failures as I go
 - Taking client work in AWS deployment, CI/CD automation, and infrastructure troubleshooting
-- Starting a BSc in Computer Science, September 2026
-
 ---
 
 <div align="center">
