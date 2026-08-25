@@ -1,105 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Odoworitse%20Afari&fontSize=70&fontColor=2C3E50&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Automation%20Specialist&descSize=20&descAlignY=55" alt="Header"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Odoworitse+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Automation+Specialist;Building+Reliable+Infrastructure+%7C+CI%2FCD+Pipelines" alt="Typing SVG" />
-</div>
+# Odoworitse Afari
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=0dow0ri7s3&color=00ADD8&style=flat-square&label=Profile+Views)
-  ![Followers](https://img.shields.io/github/followers/0dow0ri7s3?style=flat-square&color=00ADD8&label=Followers)
-  ![Repos](https://img.shields.io/badge/Repos-3-00ADD8?style=flat-square)
-  
-</div>
+### Cloud & DevOps Engineer
 
----
+**I help startups and small engineering teams deploy, automate, and troubleshoot applications on AWS.**
 
-## 👨‍💻 About me
-
-I'm **Odoworitse** — a DevOps Engineer focused on building CI/CD pipelines and automating cloud infrastructure.
-
-- 🔧 I eliminate manual work and turn deployment chaos into reliable systems
-- ☁️ Building scalable infrastructure on AWS with Infrastructure as Code
-- 🚀 Automating everything that can be automated
-- 🌍 Open to working with international clients on challenging DevOps projects
-- 📈 Currently expanding my expertise through hands-on real-world experience
-
----
-
-## 🧩 Tech Stack
-
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,docker,ansible,jenkins,githubactions,git,linux,bash,prometheus,grafana,python)
-
-<br/>
-
-![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Containers](https://img.shields.io/badge/Containers-Docker%20%26%20Kubernetes-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%26%20GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Config Management](https://img.shields.io/badge/Config%20Management-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Scripting](https://img.shields.io/badge/Scripting-Bash%20%26%20Python-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus%20%26%20Grafana-E6522C?style=flat&logo=prometheus&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odoworitse-afari)
+[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121603c4d11c8e4e3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odoworitse.a@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## What I do
 
-- 🏗️ **Cloud Infrastructure**: Design and build scalable infrastructure on AWS, Azure, and GCP
-- 📦 **Containerization**: Deploy and manage Kubernetes clusters, containerize applications with Docker
-- 🔁 **CI/CD Pipelines**: Build automated pipelines using Jenkins, GitLab CI, and GitHub Actions
-- ⚙️ **Automation**: Write scripts in Python and Bash to eliminate repetitive tasks
-- 📊 **Monitoring**: Implement observability with Prometheus, Grafana, and CloudWatch
-- 🛡️ **Security**: Set up IAM policies, security groups, and cloud security best practices
-- 📝 **Infrastructure as Code**: Automate provisioning with Terraform and CloudFormation
+Your application runs fine locally. Then you deploy it to AWS and it breaks — and the error message doesn't tell you why. Or it deploys, but every release is a sequence of manual SSH commands, and one missed step takes production down.
 
----
+That's the work I do.
 
-## 🧑‍💼 Open To
+**Deployment troubleshooting**
+Failed EC2 deployments, containers that won't start, security group and networking issues, pipeline failures, IAM permission errors, RDS connectivity. You send the error and what you expected to happen — I find the cause.
 
-✅ Freelance Projects  
-✅ Contract Work  
-✅ Full-Time Roles  
-✅ Collaborations  
+**CI/CD automation**
+GitHub Actions pipelines that build your Docker image, test it, and deploy to AWS on every push. Credentials stay in GitHub secrets, never in your repository.
+
+**AWS infrastructure with Terraform**
+VPC, ALB, Auto Scaling, RDS across multiple availability zones — provisioned as code so environments are reproducible instead of clicked together in a console.
 
 ---
 
-## 📊 GitHub Stats
+## How I work
+
+I don't guess at failures.
+
+```
+OBSERVE → DEFINE THE FAILURE → FORM HYPOTHESIS → TEST HYPOTHESIS
+   → ISOLATE ROOT CAUSE → FIX → VERIFY → DOCUMENT
+```
+
+Then I write it down, so the same problem doesn't come back twice.
+
+That discipline came from welding engineering, where a bad weld fails under load and the cost shows up later, not immediately. Infrastructure is the same problem with a faster feedback loop.
+
+---
+
+## Stack
+
+**Cloud** — AWS (EC2, VPC, S3, RDS, ALB, Auto Scaling, Route 53, CloudFront, IAM, CloudWatch, Secrets Manager) · Azure (secondary)
+
+**Infrastructure as Code** — Terraform · CloudFormation
+
+**Containers** — Docker · Docker Compose
+
+**CI/CD** — GitHub Actions · GitLab CI · Jenkins
+
+**Systems** — Linux (Ubuntu, Amazon Linux) · Nginx · Bash · Python
+
+**Databases** — MySQL · Amazon RDS
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0dow0ri7s3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0dow0ri7s3&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0dow0ri7s3&theme=tokyonight&hide_border=true)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Currently
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odoworitse-afari)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121603c4d11c8e4e3)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0dow0ri7s3)
-
-</div>
+- Building a Linux permissions and access-control lab on AWS, documenting the architecture decisions and failures as I go
+- Taking client work in AWS deployment, CI/CD automation, and infrastructure troubleshooting
+- Starting a BSc in Computer Science, September 2026
 
 ---
 
 <div align="center">
-  
-  **💡 Fun fact:** I automate things so I have more time to automate other things
-  
+
+**Something broken?** Send me the error and what you expected to happen.
+I'll tell you what I think is going on.
+
+[odoworitse.a@gmail.com](mailto:odoworitse.a@gmail.com)
+
 </div>
