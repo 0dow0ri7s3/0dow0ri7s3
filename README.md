@@ -57,6 +57,17 @@ That discipline came from welding engineering, where a bad weld fails under load
 
 ---
 
+## Selected work
+
+**[epicbook-ha-infra-terraform](https://github.com/0dow0ri7s3/epicbook-ha-infra-terraform)**
+Three-tier, multi-AZ AWS environment provisioned with Terraform. Application servers in private subnets behind an ALB and Auto Scaling Group, RDS MySQL unreachable from the internet. Security groups reference each other rather than CIDR ranges, so nothing between tiers is allowed by IP. GitHub Actions authenticates via OIDC rather than long-lived access keys, and state lives in S3 with locking.
+
+The README includes the full troubleshooting log from a database connection failure that turned out to be two separate bugs — neither of them in the infrastructure.
+
+`Terraform` · `AWS` · `VPC` · `ALB` · `Auto Scaling` · `RDS` · `OIDC`
+
+---
+
 ## Stack
 
 **Cloud** — AWS (EC2, VPC, S3, RDS, ALB, Auto Scaling, Route 53, CloudFront, IAM, CloudWatch, Secrets Manager) · Azure (secondary)
