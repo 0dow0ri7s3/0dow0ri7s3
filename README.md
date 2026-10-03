@@ -42,6 +42,22 @@ VPC, ALB, Auto Scaling, RDS across multiple availability zones — provisioned a
 
 ---
 
+## Work with me
+
+**[AWS deployment troubleshooting](https://www.upwork.com/services/product/development-it-diagnosis-of-why-your-aws-deployment-ec2-or-docker-setup-is-failing-2091317169359509222)** · from $40
+
+Send me the error, your setup, and what you expected to happen. I find the root cause and tell you exactly what to change. EC2, VPC and security groups, Docker, Nginx, GitHub Actions pipelines, IAM, RDS connectivity.
+
+**[CI/CD pipeline with GitHub Actions and Docker](https://www.upwork.com/services/product/development-it-i-will-set-up-a-ci-cd-pipeline-using-github-actions-docker-and-aws-2052198576323835479)** · from $80
+
+Push to main, your application builds, tests and deploys to AWS. Credentials stay in GitHub secrets, never in your repository.
+
+**[Static website hosting on AWS](https://www.upwork.com/services/product/development-it-fast-secure-static-website-hosting-on-aws-with-s3-cloudfront-and-https-1967779749270181872)** · from $75
+
+S3, CloudFront, Route 53 and HTTPS. Live on your own domain, loading fast globally, costing a few dollars a month to run.
+
+---
+
 ## How I work
 
 I don't guess at failures.
